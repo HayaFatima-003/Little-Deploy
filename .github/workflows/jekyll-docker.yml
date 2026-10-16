@@ -1,5 +1,5 @@
 
-name: Deploy Little Deploy
+name: Deploy Little-Deploy
 
 on:
   push:
